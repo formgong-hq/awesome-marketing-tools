@@ -180,6 +180,7 @@ Collect and analyze customer feedback to improve products and services.
 - [Typeform](https://www.typeform.com/) - Online form and survey builder.
 - [Qualtrics](https://www.qualtrics.com/) - Experience management platform.
 - [Feedier](https://feedier.com/) - Customer feedback management platform.
+- [Formgong Google Review Link Generator](https://formgong.com/en/tools/google-review-link-generator/) - Free tool that turns a Place ID or Google Maps link into a direct review link with a printable QR code. No sign-up.
 
 ## Marketing Project Management
 
