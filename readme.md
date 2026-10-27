@@ -88,6 +88,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin.
 - [Screpy](https://screpy.com/) - AI SEO platform for technical audits, rank tracking, Core Web Vitals, uptime monitoring, and reports.
 - [Kafkai](https://kafkai.com/) - Competitive intelligence platform for tracking competitor rankings and keywords, finding content gaps, and generating SEO content.
+- [Formgong Review Schema Generator](https://formgong.com/en/tools/review-schema-generator/) - Free generator and checker for Review and AggregateRating JSON-LD, checked against Google's review snippet rules. Runs in the browser, no sign-up.
 
 ## Content Marketing
 
